@@ -80,12 +80,12 @@ EOL;
 
         <tr>
             <td align="right">
-                Field Validaiton Rule
+                Field Validation Rule
             </td>
             <td class="padding" align="left" width="100%">
                 <textarea
                     name="field_validation_rule"
-                    alt="Field Validaiton Rule"
+                    alt="Field Validation Rule"
                     class="edit"
                     rows="2"
                     cols="40"
